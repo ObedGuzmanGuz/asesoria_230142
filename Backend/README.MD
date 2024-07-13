@@ -10,7 +10,7 @@
 >**| - Documentation**<br>
 >&nbsp;&nbsp;|- FRs<br>
 >&nbsp;&nbsp;|- NFRs<br>
->| - FrontEndgit 
+>| - FrontEnd
 
 >**| - Documentation**<br>
 >&nbsp;&nbsp;|- FRs<br>
